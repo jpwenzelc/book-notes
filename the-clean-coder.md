@@ -39,3 +39,7 @@ yes and no, and the implications that this conveys.
   Design patterns, Design principles (SOLID, 4RSD, etc...), Methodologies (Scrum, Kanban, Waterfall), Disciplines (TDD,
   OOP, FP, Pair programming), and Artifacts (UML, Structure Charts, State Transition Diagrams and Tables, etc...).
   > Stay learning, stay practicing.
+
+## Chapter 02: Saying No
+
+- **Adversarial Roles:**
